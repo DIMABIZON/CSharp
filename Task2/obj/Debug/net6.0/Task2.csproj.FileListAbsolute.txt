@@ -1,0 +1,15 @@
+G:\Обучение IT\CSharpDotNet\Task2\bin\Debug\net6.0\Task2.exe
+G:\Обучение IT\CSharpDotNet\Task2\bin\Debug\net6.0\Task2.deps.json
+G:\Обучение IT\CSharpDotNet\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+G:\Обучение IT\CSharpDotNet\Task2\bin\Debug\net6.0\Task2.dll
+G:\Обучение IT\CSharpDotNet\Task2\bin\Debug\net6.0\Task2.pdb
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\Task2.dll
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\refint\Task2.dll
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\Task2.pdb
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+G:\Обучение IT\CSharpDotNet\Task2\obj\Debug\net6.0\ref\Task2.dll
