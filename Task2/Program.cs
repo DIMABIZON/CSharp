@@ -7,8 +7,9 @@ Console.WriteLine("Введите второе число {b}: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
 if (a > b) Console.WriteLine("Число {a} большее, а число {b} меньшее");
-
+    
 else
 {
     Console.WriteLine("Число {b} большее, а число {a} меньшее");
+    
 }
