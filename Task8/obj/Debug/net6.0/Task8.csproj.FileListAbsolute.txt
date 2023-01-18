@@ -1,0 +1,15 @@
+G:\Обучение IT\CSharpDotNet\Task8\bin\Debug\net6.0\Task8.exe
+G:\Обучение IT\CSharpDotNet\Task8\bin\Debug\net6.0\Task8.deps.json
+G:\Обучение IT\CSharpDotNet\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+G:\Обучение IT\CSharpDotNet\Task8\bin\Debug\net6.0\Task8.dll
+G:\Обучение IT\CSharpDotNet\Task8\bin\Debug\net6.0\Task8.pdb
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\Task8.csproj.AssemblyReference.cache
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\Task8.dll
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\refint\Task8.dll
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\Task8.pdb
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
+G:\Обучение IT\CSharpDotNet\Task8\obj\Debug\net6.0\ref\Task8.dll
