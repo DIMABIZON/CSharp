@@ -1,13 +1,12 @@
-﻿// Чётные от 1 до N
+﻿// Задача 8: Чётные от 1 до N
 
-Console.Write("Введите число N-->");
+Console.Write("Введите целое число больше нуля -->");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int i = 0;
 
-while (i < n)
+while (i < n-1)
 {
     i += 2;
-    Console.Write($"{i}, ");
-    if (i == n-1) break;
+    Console.Write($"{i},");
 }
