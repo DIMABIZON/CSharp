@@ -1,0 +1,26 @@
+﻿// Задача 13: Третья цифра или ее нет
+
+Console.Write("Введите число -->");
+int n = Convert.ToInt32(Console.ReadLine());
+
+int i = 0;
+int k = 0;
+int d = (n/100);
+if (d == 0) 
+{
+    Console.WriteLine("Третьей цифры нет");
+}
+else 
+{
+   while(n >= 999) 
+   {
+    n = n/10; 
+    i++;
+   }
+    
+    k = n % 10;
+    Console.Write("Третья цифра вашего числа: ");
+    Console.WriteLine(k);
+}
+
+

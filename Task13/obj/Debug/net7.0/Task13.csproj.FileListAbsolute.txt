@@ -1,0 +1,15 @@
+H:\Обучение IT\CSharpDotNet\Task13\bin\Debug\net7.0\Task13.exe
+H:\Обучение IT\CSharpDotNet\Task13\bin\Debug\net7.0\Task13.deps.json
+H:\Обучение IT\CSharpDotNet\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+H:\Обучение IT\CSharpDotNet\Task13\bin\Debug\net7.0\Task13.dll
+H:\Обучение IT\CSharpDotNet\Task13\bin\Debug\net7.0\Task13.pdb
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\Task13.dll
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\refint\Task13.dll
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\Task13.pdb
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+H:\Обучение IT\CSharpDotNet\Task13\obj\Debug\net7.0\ref\Task13.dll
