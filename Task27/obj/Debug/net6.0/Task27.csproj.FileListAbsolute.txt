@@ -1,0 +1,15 @@
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\bin\Debug\net6.0\Task27.exe
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\bin\Debug\net6.0\Task27.deps.json
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\bin\Debug\net6.0\Task27.dll
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\bin\Debug\net6.0\Task27.pdb
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\Task27.dll
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\refint\Task27.dll
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\Task27.pdb
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+H:\Обучение IT\CSharpDotNet\Seminar4\Task27\obj\Debug\net6.0\ref\Task27.dll
