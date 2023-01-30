@@ -3,17 +3,17 @@
 Console.WriteLine("Сколько чисел будет в вашем массиве?: --> ");
 int kol = Convert.ToInt32(Console.ReadLine());
 
-int [] array = new int [kol];
+Double [] array = new Double [kol];
 Random rnd = new Random (); 
 
 for (int i = 0; i < kol; i++)              
 {
-    array [i] = rnd.Next(0, 100);
+    array [i] = rnd.Next(-99, 100);
     Console.Write(array [i] + " ");     
 }
 
-int maxnumb = array [0];
-int minnumb = array [0];
+Double maxnumb = array [0];
+Double minnumb = array [0];
 
 for (int i = 0; i < kol; i++)
 {
@@ -28,5 +28,10 @@ for (int i = 0; i < kol; i++)
     }
 }
 
-Console.WriteLine (minnumb);
+Console.WriteLine ();
+Console.Write("Максимальное число в массиве равно: ");
 Console.WriteLine (maxnumb);
+Console.Write("Минимальное число в массиве равно: ");
+Console.WriteLine (minnumb);
+Console.Write("Разница между максимальным и минимальным числом равна: ");
+Console.WriteLine (maxnumb - minnumb);
