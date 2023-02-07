@@ -15,7 +15,7 @@
 //     }  
 //     System.Console.WriteLine();
 // }
-
+444444444444444444444444444444444444444
 // Console.WriteLine("введите количество строк: --> ");
 // int m = Convert.ToInt32(Console.ReadLine()); 
 
@@ -47,6 +47,7 @@
 //     }  
 //     System.Console.WriteLine();
 // }
+4444444444444444444444444
 
 Console.WriteLine("введите количество строк: --> ");
 int m = Convert.ToInt32(Console.ReadLine()); 
@@ -67,7 +68,6 @@ for (int i = 0; i < array.GetLength (0); i++)
 }
 System.Console.WriteLine();
 
-
 int summa = 0;
 
 for (int i = 0; i < array.GetLength (0); i++)
@@ -81,3 +81,31 @@ for (int i = 0; i < array.GetLength (0); i++)
     }  
 }
 System.Console.WriteLine(summa);
+
+// Console.WriteLine("Enter an array of integer elements separated by SPASE, SLASH, DOT or COMMA, end press 'ENTER'");
+
+// string str = Console.ReadLine();
+
+// char [] separator =  new char [] {' ',',','.','/'};
+
+// string [] array = str.Split(separator, StringSplitOptions.RemoveEmptyEntries);
+
+// int [] a = Array.ConvertAll(array,int.Parse);
+
+// Console.WriteLine("Your array:");
+
+// Console.Write("{"+string.Join(",",a)+"}");
+
+// int count=0;
+
+// for (int i=0;i<array.Length;i++)
+
+// {
+
+// if(a[i]>0)count++;
+
+// }
+
+// Console.WriteLine("\nThe number of positive array elements is:");
+
+// Console.WriteLine(count);
