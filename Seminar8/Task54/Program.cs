@@ -9,8 +9,8 @@
 // 8 4 4 2
 
 Random rnd = new Random();
-int m = rnd.Next(3, 4);
-int n = rnd.Next(4, 5);
+int m = rnd.Next(3, 5);
+int n = rnd.Next(4, 6);
 
 int [,] array = new int [m, n];
 
@@ -22,14 +22,14 @@ for (int i = 0; i < m; i++)
         Console.Write(String.Format("{0,2}", array [i,j]) + " ");
     }  
     Console.WriteLine();
-}
-
-int index = 1;                  // Начало Гномьей сортировки массива по убыванию
-int nextIndex = index + 1;
-int temp;
+} 
 
 for (int i = 0; i < m; i++)
 {
+    int index = 1;                  // Начало Гномьей сортировки массива по убыванию
+    int nextIndex = index + 1;      // Во внешнем цикле нужно определять index, nextIndex, temp.
+    int temp;
+
     while (index < n)
     {
         if (array [i, index - 1] > array [i, index]) // если предыдущий элемент строки больше следующего, идём дальше
